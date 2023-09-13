@@ -1,14 +1,17 @@
 <script setup>
 import About from "./components/About.vue";
+import Footer from "./components/Footer.vue";
 import Header from "./components/Header.vue";
 import Home from "./components/Home.vue";
+import Works from "./components/Works.vue";
 </script>
 
 <template>
-  <main class="w-4/5 mx-auto">
-    <Header />
+  <Header />
 
-    <Home />
-    <About />
-  </main>
+  <Home />
+  <About />
+  <Works />
+  <!-- <Contact /> -->
+  <Footer />
 </template>

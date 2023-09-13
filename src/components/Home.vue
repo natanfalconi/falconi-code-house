@@ -1,5 +1,5 @@
 <template>
-  <section class="flex flex-col items-center justify-center h-[calc(90vh-64px)]">
+  <section class="flex flex-col items-center justify-center h-[calc(90vh-64px)] w-4/5 mx-auto">
     <div>
       <h1 class="sm:text-center text-4xl sm:text-6xl font-bold leading-[48px] sm:leading-[72px]">
         Criação de Sites

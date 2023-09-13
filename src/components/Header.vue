@@ -1,5 +1,5 @@
 <template>
-  <header class="flex items-center justify-between">
+  <header class="flex items-center justify-between w-4/5 mx-auto">
     <router-link to="/" class="mr-2 sm:mr-0">
       <img :src="codeHouse" alt="logo do site" class="w-1/4">
     </router-link>

@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-10 flex flex-col items-center justify-center">
+  <section class="mt-10 flex flex-col items-center justify-center w-4/5 mx-auto">
     <div class="mt-4">
       <p class="mb-2 text-[#0D8772] font-medium text-base uppercase max-w-[540px] sm:text-center">
         Isso é desempenho
