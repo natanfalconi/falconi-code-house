@@ -10,8 +10,8 @@
         <router-link to="#price">Projetos</router-link>
         <router-link to="#faq">Dúvidas</router-link>
       </nav>
-      <router-link to="#" class="bg-[#864BD8] py-2 px-1 text-white sm:p-2 rounded-md hover:opacity-80 transition-all">
-        Faça um orçamento
+      <router-link to="#" class="bg-[#864BD8] px-3 py-2 text-white rounded-md hover:opacity-80 transition-all">
+        Entre em contato
       </router-link>
     </div>
   </header>
